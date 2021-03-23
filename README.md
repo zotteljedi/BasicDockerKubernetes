@@ -577,6 +577,9 @@ kind:
 metadata:
 spec:
 ```
+
+Für die Hilfe was alles definiert werden kann: `kubectl explain pods --recursive | less`.
+
 ```
 apiVersion: v1
 kind: Pod
